@@ -1,1 +1,1 @@
-This displays current directory contents in a long format with user and group IDs displayed numerically and hidden files
+script that creates a directory
