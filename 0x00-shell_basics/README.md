@@ -1,1 +1,1 @@
-command which lists all files and directories of the current directory seperated by commas
+script which creates a magic file that can be used with the command file to detect School data files
