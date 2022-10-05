@@ -1,1 +1,1 @@
-script that deletes a non-empty directory
+script which changes the working directory to the previous one
