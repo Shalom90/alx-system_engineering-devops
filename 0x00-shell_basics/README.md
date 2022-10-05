@@ -1,1 +1,1 @@
-script which changes the working directory to the usershome directory
+script which displays current directory contents in along format
