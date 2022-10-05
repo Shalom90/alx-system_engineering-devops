@@ -1,1 +1,1 @@
-scripts which lists all files in the current directory and parent of the working directory and the /boot directory
+script which prints the type of file named iamafile
