@@ -1,1 +1,1 @@
-script to move file from one directory to another
+script to delete a file
