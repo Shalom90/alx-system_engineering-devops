@@ -1,1 +1,1 @@
-a script that adds execute permission to all subdirectories of the current directory for o+g+u with regular files unchanged
+script which creates a directory called my_dir with permissions 751 in the working directory
