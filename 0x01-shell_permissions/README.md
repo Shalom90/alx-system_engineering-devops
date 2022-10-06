@@ -1,1 +1,1 @@
-script which creates an empty file called hello
+script which adds execute permission to the owner of the file
