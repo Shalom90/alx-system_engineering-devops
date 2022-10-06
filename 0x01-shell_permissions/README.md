@@ -1,1 +1,1 @@
-script which sets the mode of one file to be the same with another file
+a script that adds execute permission to all subdirectories of the current directory for o+g+u with regular files unchanged
