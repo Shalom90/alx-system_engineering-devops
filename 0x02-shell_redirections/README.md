@@ -1,1 +1,1 @@
-a script which displays the 10 newest files in the current directory with the following requirements; One file per line and sorted from the newest to the oldest.
+a script which takes a list of words as input and print only words that appear exactly once. Input format: One line, one word. Output format: One line, one word. Words should be sorted.
