@@ -1,1 +1,1 @@
-a script which displays a confused smiley
+a script which creates a file named exactly containing the text Best School ending by a new line
