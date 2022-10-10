@@ -1,1 +1,1 @@
-a script which displays all the lines in the file /etc/passwd that do not contain the pattern "bin".
+a script which displays all lines of the file /etc/ssh/sshd_confi starting with a letter.
