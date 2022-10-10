@@ -1,1 +1,1 @@
-script which duplicates the last line of the file iacta
+a script which deletes all regular files except directories with a .js extension
