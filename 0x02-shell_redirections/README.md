@@ -1,1 +1,1 @@
-script which displays the first 10 lines of a specific file
+script which displays the third line of the file iacta
