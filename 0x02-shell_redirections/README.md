@@ -1,1 +1,1 @@
-script which writes into a specific file the results of the command ls -la
+script which duplicates the last line of the file iacta
