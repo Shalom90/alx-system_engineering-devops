@@ -1,1 +1,1 @@
-a script which creates a file named exactly containing the text Best School ending by a new line
+A script which prints "Hello, World", followed by a new line to the standard output
