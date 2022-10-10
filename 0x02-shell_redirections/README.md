@@ -1,1 +1,1 @@
-a script which displays the last 10 lines of a specific line
+script which displays the first 10 lines of a specific file
