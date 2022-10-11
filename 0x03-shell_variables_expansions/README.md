@@ -1,1 +1,1 @@
-Create a script which adds /action to the PATH. /action should be the last directory the shell looks into when looking for a program
+A script which counts the number of directories in the PATH
