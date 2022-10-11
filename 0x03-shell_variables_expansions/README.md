@@ -1,1 +1,1 @@
-A script which lists all local variables and environmental variables, and functions
+A script which creates a new local variable with Name as BEST and Value as School.
